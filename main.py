@@ -89,11 +89,12 @@
 # for b in range(12):
 #    print(b)
 
-i = 10
+# i = 10
 
-while i > 0 :
-     print(i)
+# while i > 0 :
+#      print(i)
 
-     i -= 1
+#      i -= 1
 
 
+print("hello world!")
